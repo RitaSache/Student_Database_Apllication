@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e1bac424-ba67-4741-9a84-21a6f8becf62" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/DbConfig.java" afterPath="$PROJECT_DIR$/src/DbConfig.java" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DbConfig.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DbConfig.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DbConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="85" lean-forward="true" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="615">
+              <caret line="41" column="87" lean-forward="true" selection-start-line="41" selection-start-column="87" selection-end-line="41" selection-end-column="87" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <marker date="1520582424461" expanded="true" signature="313:334" ph="SELECT * FRO... Student" />
@@ -69,8 +68,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/MainExample.java" />
-        <option value="$PROJECT_DIR$/src/DbConfig.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/DbConfig.java" />
       </list>
     </option>
   </component>
@@ -303,12 +302,12 @@
       <workItem from="1520209638016" duration="277000" />
       <workItem from="1520538727096" duration="1579000" />
       <workItem from="1520549332903" duration="14873000" />
-      <workItem from="1520581342849" duration="850000" />
+      <workItem from="1520581342849" duration="1105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23535000" />
+    <option name="totallyTimeSpent" value="23790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1400" height="772" extended-state="0" />
@@ -594,20 +593,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DbConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="615">
+          <caret line="41" column="87" lean-forward="true" selection-start-line="41" selection-start-column="87" selection-end-line="41" selection-end-column="87" />
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1520582424461" expanded="true" signature="313:334" ph="SELECT * FRO... Student" />
@@ -619,6 +608,16 @@
             <marker date="1520582424461" expanded="true" signature="4336:4364" ph="SELECT FROM Student... " />
             <marker date="1520582424461" expanded="true" signature="4336:4371" ph="SELECT * FRO... Student" />
             <marker date="1520582424461" expanded="true" signature="4621:4667" ph="SELECT FROM Student... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DbConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="85" lean-forward="true" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
