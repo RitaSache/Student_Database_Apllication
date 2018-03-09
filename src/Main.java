@@ -1,10 +1,4 @@
-/*
- * Rita Sachechelashvili
- * 1928162
- * sache100@mail.chapman.edu
- * CPSC408
- * Purpose of this file is to serve as main file
- */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

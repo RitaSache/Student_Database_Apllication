@@ -1,10 +1,4 @@
-/*
-* Rita Sachechelashvili
-* 1928162
-* sache100@mail.chapman.edu
-* CPSC408
-* Purpose of this file is to serve as database configuration file
- */
+
 import java.sql.DriverManager;
 import java.sql.Connection;
 public class DbConfig {
